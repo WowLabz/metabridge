@@ -21,7 +21,7 @@ In summary, while Metabridge is a centralized bridge-based application, it still
 # Tech Stack
 The app is built on a tech stack that includes Substrate, Solidity, Rust, Nodejs, React, and Typescript. By leveraging the power of these technologies, Metabridge provides users with a fast, secure, and user-friendly platform to transfer NFTs across multiple blockchains.
 
-### Demo Link: [Meta Bridge](https://nftbridge.metaport.to/)
+### Demo Link: [Metabridge](https://nftbridge.metaport.to/)
 
 # Video Demo
 [NFT Transfer App Demo](https://user-images.githubusercontent.com/43837760/219704695-78e3164c-95eb-4ed7-9258-1f2d3974ddfc.mp4)
